@@ -42,10 +42,15 @@
 #dim_arrow{
 	width: 100px;
 	height: 100px;
+	margin: 0 auto;
+	position: relative;
+	top: 37px;
 }
 
 #arrow{
-    width: 100px;
+    width: 10%;
+    padding: 0px;
+    padding-bottom: 4%;
     border-radius: 50%;
     border: 5px solid rgba(255, 255, 255, 0.6);
     margin-top: 3%;
